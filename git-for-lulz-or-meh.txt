@@ -1,4 +1,31 @@
+----
 
+20140822.1349
+
+So here I go & I'm looking to learn.
+
+At OS/X terminal I begin:
+
+blackwash:~ gregor42$ man git
+
+NAME
+       git - the stupid content tracker
+
+
+cntl-C cntl-C cntl-C *cntl-C* **cntl-C** !!!
+
+::Deep breaths::
+
+::Nervously get up and pace around aimlessly for a few minutes.::
+
+Back to terminal...
+
+----
+
+20140822.1345
+
+I have to poke around & find out if this everything-in-lower-case-with-no-spaces *thing* is The Protocol, or if I am imagining
+such things in my over-zealous analysis of ShitHUb culture.
 
 ----
 
@@ -28,6 +55,5 @@ It is only for the sake of this Peer Pressure shit that I am indulging in this p
 It simply would not do to talk out of one's ass about things with which one was not properly acquianited.
 
 Thus .. Renewed Acquaintance.
-
 
 ----
