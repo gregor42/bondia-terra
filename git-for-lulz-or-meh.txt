@@ -1,5 +1,24 @@
 ----
 
+20140822.1634
+
+The indignities I have suffered today include being 2 major revisions behind the supported OS/X GUI client.
+(With BitBucket I was only one rev back)
+And I am also a najor revision behind on the iOS client.
+
+So nothing but the command line & this web-based editing right on the site to work with.
+
+UGLY.
+
+That & during my first attempt to commit a change I was yelled at to use git commit -a
+Cryptic & annoying are my first impressions.
+
+Honestly if not for this site propping it up - this software would already be ignored or deleted.
+
+BUT I AM TRYING.  So cut me some slack for whinging so much.
+
+----
+
 20140822.1625
 
 I have git working & I am trying it on my local desktop machine. 
