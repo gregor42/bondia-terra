@@ -1,5 +1,13 @@
 ----
 
+20140822.1625
+
+I have git working & I am trying it on my local desktop machine. 
+Let's see if I can get this change into the web site without wanting to kill 
+someone...
+
+----
+
 20140822.1433
 
 So now I'm doing this thing:
