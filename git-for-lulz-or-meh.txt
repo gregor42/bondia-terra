@@ -1,3 +1,48 @@
+----
+
+20140822.1433
+
+So now I'm doing this thing:
+https://help.github.com/articles/set-up-git
+
+And I know that it is already installed - so I'm thinking that I'll just cake-walk through this until I get to the commands & 
+THEN ... THEN I'll finally start focusing on the work & not the miasma of the dogmatic cultural echo-chamber embued in all facets
+of this 'tech-stack'.
+
+And I got all the way to STEP 4 before I took an ice-pick to the forehead:
+"Tell Git the email address that will be associated with your Git commits. The email you specify should be the same one you used 
+to sign up for GitHub. To keep your email address hidden, see "Keeping your email address private"."
+
+And *of course* the first thing that I did was to click on that link & read up on how I can basically make a proxy account 
+*through GitHub* where then THEY track it back to me.
+
+Um... WTF?
+
+Wave Goodbye to the days of writing anonymous code?  Are you shitting me?
+
+Look - I GET that if I'm posting things publically to ShitHub then of course people realize where it is coming from.  But 
+*every* time I commit something I have to not just put some throwaway unix handle or role name on it - but an email address too?
+
+In an age where every single piece of identifying information should be suppressed - we are gathering identity information at
+the root development level?
+
+WHY?
+
+Now I have to create & maintain separate accounts for projects with conflicting interests and I have to worry that I NEVER set
+a default global user for commits so that if I FORGET once I don't have to delve into the black art of hacking history....
+
+Well that is some seriously unfriendly shit.
+
+:sigh:
+
+Now I infer that the meta-data for all of these documents is easily farmable.  Way to give up the goods By Design fellas...
+
+This gets uglier each time I try.
+
+I am literally getting a stomach-ache from this.
+
+----
+
 20140822.1415
 
 This time I tried to watch a video.
