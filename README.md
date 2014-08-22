@@ -23,4 +23,8 @@ The big problem with running a programmer-tool site like a socil media site is t
 
 I, for one, find it all VERY CUMBERSOME.
 
+I find the green contribution-tracking squares to be like gold-stars for grade-schoolers.
 
+The kneejerk reward system strikes me as a cross between a Pavlov conditioning mechanism and an experiment of a monkey with a button that gives him cocaine.  I inherently DISTRUST it.
+
+But I get my green square for posting this today, don't I?
