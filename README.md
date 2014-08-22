@@ -1,11 +1,13 @@
 bondia-terra
 ============
 
-My github n00b experience... whee - So expect me to ramble incoherently while I come up to speed on all of the features & the over-hyped FLOW.  'cause it's all about the *flow*
+My github n00b experience... whee - So expect me to ramble incoherently while I come up to speed on all of the features & the over-hyped FLOW.  "'cause it's all about the *flow man* ... "
 
-Interesting... I had no idea that this would use wiki-text markup.  I don't even see it mentioned in the documentation.
+Interesting... I had no idea that this would use wiki-text markup.  I didn't even see it **mentioned** in the documentation.  It's a good thing that there is that Preview tab up there.
 
 Wiki by default, whether you want it or not & whether you "get" that or not.  
+
+Funny thing is - I might end up using this site for this functionality more than for anything else - being as I HATE git & all... (I like it better than svn for sure, but am overdefensive of my use of hg which gets *no love* here)
 
 <pre>
 Catalan  |  English
