@@ -1,5 +1,27 @@
 ----
 
+20140822.1640
+
+And now the ugly truth.  I got to the end of the document (because I blew off using SSH for now) and under Next Steps of
+things to try - the Be Social link was the only thing left.
+
+And here we see WHY GitHub is successful - for the same reasons why Facebook is successful.  It Makes People Feel Important.
+
+Do I really need to "follow" the progress of other developers?  Are we setting up fan-clubs now?  This cult-of-personality 
+thing is ugly.  No wonder this is a Linus-worship-zone.
+
+::puke::
+
+IF I was in a common working group & I was waiting for people to finish things I was expecting or if these developers Worked
+For Me - then I would want to follow them - but then again if this was a work situation then Open Source is likely not happening
+so we wouldn't be here anyway?
+
+What is the POINT of this then if not for an Ego Stroke?
+
+Is that WHY we are contributing to Open Source?  For the #humblebrag?  R U SRS?
+
+----
+
 20140822.1634
 
 The indignities I have suffered today include being 2 major revisions behind the supported OS/X GUI client.
