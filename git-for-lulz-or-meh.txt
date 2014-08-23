@@ -1,5 +1,30 @@
 ----
 
+20140823.0039
+
+And now I went ahead & made that second repository.
+
+But to get it to import I had to do some weird & cryptic shit:
+git remote add origin https://github.com/gregor42/sloppy-secundus.git
+git push -u origin master
+
+Dude - what kind of freakin' demon are we summoning here?
+
+WhatTF is a remote?  I read the docs & it explains How To Add them and How to Manage them -- but not What They Are.
+
+What is origin?  Is that a convention?  It appears to be an arbitrary name..?
+now I have to puzzle over the -u option for push and master, I believe, is the default branch... :sigh: n00b city man... FUUUUUU
+
+I DID however find a button under that for importing code from Subversion or Mercurial...
+
+Interesting that since I actually did a search for the term 'Mercurial' on the site & came up with nothing.
+
+Yet-another-undocumented-shithub-feature
+
+I will have to go ahead & make yet another repository & do so by cloning an hg based project as an experiment.
+
+----
+
 20140822.2005
 
 More trouble.
