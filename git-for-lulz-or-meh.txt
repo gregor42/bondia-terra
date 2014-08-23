@@ -1,5 +1,36 @@
 ----
 
+More trouble.
+
+I was *so happy* too.. I had opened up this file & wrote how wonderful I thought it was that the web site looked & felt on
+my iPad exactly as it does on the compyter.  
+
+Back when The Steve was alive & the first iPhone came out - we didn't HAVE apps & the promise was that with HTML5 everything
+would look the same on iOS as on the computer.
+
+Fast forward to today & EVERY site has an app that they was to FORCE you to use instead of their website - which they will
+intentionally break on you if you are not running a browser released in the last 6 months...
+
+And when I went to SAVE the changes that I made on the web site...  IRONY struck like a meteor as the Commit changes button
+**did not work**.
+
+So yeah.... You can LOOK, and go through the motions of changing things, but you cannot save without their app & that requires 
+iOS 7.
+
+THEN I tried creating a new project from scratch from the command line.
+
+I was able to handle the creation of the repository & adding the files.  It is close enough to Mercurial to guess my way through
+but when I wanted to work with GitHub...  Oh HO!  You want to work with a repository?  WHICH repository?  Because you're NOT 
+creating one through git nor from the command line.
+
+You are *required* to use the web site to create a repository.  That's quite the kick in the workflow guys.  Thanks...
+
+Even after all that I watched about 1/2 hour of Linus Torvalds at Google talking about Git.  He mentioned Mercurial, almost 
+begrudgingly and just said that you shouldn't use it because their interface is better.  (!?)  There is NO reality warping
+field in effect around this guy.  I call BULLSHIT.
+
+----
+
 20140822.1640
 
 And now the ugly truth.  I got to the end of the document (because I blew off using SSH for now) and under Next Steps of
