@@ -1,5 +1,16 @@
 ----
 
+20140826.0130
+
+Having just faced down the "Commit changes" button being disabled for reasons of incomplete web=form-ness/age/ocity -- I am
+now forced to wonder if my experience with the iPad wasn't simply something similar.
+
+I will need to try that again.
+
+"Green.. So Green" - Ruby Rhod
+
+----
+
 20140823.0039
 
 And now I went ahead & made that second repository.
