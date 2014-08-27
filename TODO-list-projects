@@ -1,4 +1,7 @@
 This is a list of project ideas:
 1. Import an existing hg repository
 2. Write a web-automation tool that would allow you to create a GitHub repository from your command line
+3. Do what Linus did : Get pissed off enough at all of the existing version control systems & roll your own (and you're thinking "WHAAAAAT?"  Yeah, you heard me.  The biggest problem with Distributed Repos is NEEDING to pull the WHOLE THING instead of a subset.  This is the ONE reason why I can't just do "git init" nor "hg init", etc. right at the root - to do version control of the Entire File System.  This shit should be transparent & ubiquitous.
+4. ANYTHING TO DO WITH ENCRYPTION - yet something else that SHOULD BE transparent & ubiquitous and yet is not.
+
 
