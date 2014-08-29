@@ -1,5 +1,35 @@
 ----
 
+20140829.1151
+
+I am a few days into things now.  I have gotten past my initial n00boscity & have been swimming in the Kool-Aid.
+
+I went so far as to spin up **two** open source projects even.  (We all need to give back to the community)
+
+I ***still*** can't commit anything from an iOS device through Safari however, which is pure unadulturated bullshit.
+
+I will admit that it took watching Linus Torvalds talk about Git at Google for me to start to grok 
+whereTF they are coming from with a lot of this.  I GET it - at least a lot more than I did before.
+
+But .. all of that being said - I am still of the opinion that hg is a better fit for Enterprise Software Development.
+
+That being said however, this is not a *bias* as much as an opinion that I support with argument & fact.
+
+The debate is not *over*.
+
+-=-=-=-=-
+
+On the topic of Green however - I find it interesting that yesterday I committed 2 changes - so it is a light green day.
+
+But those two changes were by far the most *significant* changes I have yet posted.
+
+So you are rewarded for the number of commits - rather than their value individually.
+
+That's good to know in un-wiring the gold-star/bananna-sticker reward system mentality.
+
+
+----
+
 20140826.0130
 
 Having just faced down the "Commit changes" button being disabled for reasons of incomplete web=form-ness/age/ocity -- I am
