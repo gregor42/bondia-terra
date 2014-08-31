@@ -1,3 +1,29 @@
+I am compelled to keep messing with the Little Green Squares.
+
+I have a 6 day streak.  What Does That MEAN?  I mean in the Reality kind of perspective?
+
+Not a lot.
+
+But I have been trying all kinds of stuff just to see what all the fuss is about.
+
+I am nowhere NEAR making a decision.
+
+The security features in git bug me and intrigue me at the same time.
+
+The mixture of the email address requirement and the SHA-1 hashes means that there IS some kind of fingerprinting mechanism
+
+But from Linus' point of view - that is a GOOD THING.... right?
+
+I am unsure.
+
+THE MOST LIKELY approach will probably be to maintain multiple repositories.
+
+THAT in itself will probably become a project.
+
+I should go write that down.  More green!
+
+-------
+
 Let's just call this all what it is - an experiment.
 
 I am trying to see what I am going to end up using most of the time, GitHub, BitBucket or SourceForge...
