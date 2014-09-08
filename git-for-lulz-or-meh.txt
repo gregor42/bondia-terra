@@ -1,5 +1,21 @@
 ----
 
+20140908.1600
+
+I have been at this for a while now.  I *still* engage in hand-to-hand combat with git at the command line.  I have
+*concepts* down but not the syntax.
+
+I **failed miserably** trying to automate pushes from my local repository to GitHub.  I *still* don't know what I'm 
+doing wrong but trying to use *cron* or *at* just never worked.  Maybe I can write a Python script to call out 
+to the shell....
+
+I have a 15 day streak of contributions going - for all that is worth.  But if nothing else it gives me an excuse to 
+keep at it day after day.
+
+I *am* learning - though of course not as quickly as I would like.
+
+----
+
 20140829.1151
 
 I am a few days into things now.  I have gotten past my initial n00boscity & have been swimming in the Kool-Aid.
