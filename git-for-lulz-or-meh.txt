@@ -1,5 +1,15 @@
 ----
 
+20140913.0945
+
+I continue to fight with Git.  I can do branching cleanly on github but not with git itself.
+
+I end up fighting with it.
+
+I have to try again & remain calm because this is increasingly frustrating.
+
+----
+
 20140908.1600
 
 I have been at this for a while now.  I *still* engage in hand-to-hand combat with git at the command line.  I have
