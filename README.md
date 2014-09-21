@@ -40,3 +40,5 @@ But I get my green square for posting this today, don't I?
 Aha!  Apparently not.
 
 So I forked this rework of the page, just for lulz.
+
+And so far it is all going swimmingly.
