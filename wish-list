@@ -7,3 +7,10 @@ Just because I am doing something for my job shouldn't mean that I should have t
 for that simple reason it would be nice to have this HTML5-based editor in a usable version that could be installed locally
 in the enterprise.
 
+---
+
+I have found that there ARE some such things out there.  They all are a mess.  Phabricator is interesting but is written in fucking PHP! (wtf is that?)
+
+So this is going to take some work to Get Over.
+
+Funny how with HG I just run hg serve & everything is just fine.... ugh!
