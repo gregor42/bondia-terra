@@ -1,5 +1,18 @@
 ----
 
+20141010.0908
+
+It has all gotten away from me a little bit.  But I am trying to get my momentum up again.
+
+it occurs to me that the green-box chart might not actually survive the year that I would need to populate it.  
+
+There's a calming aspect to that thought.  The whole idea of chasing dragons & grails is that when you get to the end
+there's no There there.  So calm down, don't be in a rush & enjoy the journey.
+
+That being said - WTF is with all of the iOS apps for GitHub and none of you actually let you edit code!?
+
+----
+
 20140913.0945
 
 I continue to fight with Git.  I can do branching cleanly on github but not with git itself.
