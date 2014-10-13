@@ -1,5 +1,21 @@
 ----
 
+20141013.0900
+
+It is difficult to keep at it.  Again - it this one of those biploarity-curves?  I'm not sure.  I make these token
+efforts to try to stay current.  And even that seems like an effort sometimes.
+
+And yet - There is SO MUCH that I want to do for Johnny for example...  It is all about time and focus.  I have neither
+available.
+
+But I WILL say that I find it completely unacceptable that there is no iPad-specific client that would allow you to edit
+code in the repository.  Essentially a simplified version of git with a UI.  Is this just verboten or something?  WTF?
+
+{This is yet another reason why I want to give up using the iPad in favor of a MacBook Pro or a Novena - mobile devices
+are increasingly hobbled and locked deeper & deeper in the Walled Garden...}
+
+----
+
 20141010.0908
 
 It has all gotten away from me a little bit.  But I am trying to get my momentum up again.
