@@ -71,3 +71,42 @@ I have to say that the whole Must Pay To Be Private thing here is a real buzzkil
 
 That being said - this wiki-text based editor doesn't suck and this is the only place that has it.
 
+-------
+
+And now that the 'newness' factor has worn off and I have gone through a wave & trough of creative output whilst trying
+
+to shove myself through the keyhole that is this format...
+
+I will say a few thing about what I have learned:
+
+No one seems to be in it for the End User Experience.
+
+These tools - all of them - Suck.  And they suck for a variety of ways.
+
+I am old enough to be nostalgic for the days when using computers was an asocial experience.
+
+The constant need to be a shill for One's Own Brand is exhausting and robs us from the experience of Being Ourselves.
+
+Instead we always have to Sell Ourselves - which is quite another thing.
+
+I still take a very critical view upon what is most likely the key to success - the personal feeds.
+
+Can I see how they might be used for good & not for yuck?  (Selfishness is a mild form of wrong, usually barely called
+
+"Evil")  Sure.  But is it designed to enhance those uses?  Nope.
+
+GitHub is a monoculture.  That is a failing.  It is a bad name choice.
+
+Embracing diversity does not mean giving up yourself it means opening opportunities.
+
+That git rolls identity information into source control is at best Paranoid and at worst insidious and threatens
+
+a chilling effect.  That this is combined with an unquestionable One-True-Way frankly makes ME paranoid.
+
+BUT ... (and there's always that word or you haven't done your research properly) ... It IS inherently USEFUL.
+
+I hate to say it but I can see a very simple way to extend this platform in two directions that would add
+
+tremendous value.
+
+But you don't expect me to just open-source THOSE do you?  Oh, maybe you do.
