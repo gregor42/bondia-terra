@@ -42,3 +42,7 @@ Aha!  Apparently not.
 So I forked this rework of the page, just for lulz.
 
 And so far it is all going swimmingly.
+
+But but swimmingly I mean that you need to keep paddling away.  
+
+You need to constantly expend effort just to tread water.  There is no backing down.  So get used to that too.
