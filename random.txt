@@ -1,0 +1,17 @@
+So it came to me, that I might be the only one who ever sees this.
+
+But that really can't be the case.  I mean sure, I might be the only human that ever interacts with this document, but surely there will be some automated process that will come across it SOMETIME and interact with it in some way.
+So how could I ever hope to communicate with it?  It might not be receptive in any way...
+
+I could embed odd bits of code into the file in the hopes that they might be parsed randomly & executed, but that seems somewhat superflous, no?  Almost WISHFUL THINKING ...
+
+If I put something actually USEFUL here then other humans might peruse it after all... (!)
+
+I'm not sure what to make of that.
+
+Is this open-source thing really FOR me?  Do I like to share?  
+
+I'm not sure.  I mean I sure like being on the receiving end of the sharing deal...  I like reusing existing code.
+
+It is probably ethically positivie &/or responsible to share code BACK.
+
