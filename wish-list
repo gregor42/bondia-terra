@@ -9,8 +9,18 @@ in the enterprise.
 
 ---
 
-I have found that there ARE some such things out there.  They all are a mess.  Phabricator is interesting but is written in fucking PHP! (wtf is that?)
+I have found that there ARE some such things out there.  They all are a mess.  Phabricator is interesting but is written in fucking
+PHP! (wtf is that?)
 
 So this is going to take some work to Get Over.
 
 Funny how with HG I just run hg serve & everything is just fine.... ugh!
+
+---
+GitLab is a Thing.
+
+Almost anything is better than this place.  The fishbowl aspect is really cumbersome when you have to concern yourself with
+how everyone is going to perceive anything that you do or say & go mining through your social media for gotchas - you KNOW damned
+well that people are doing it with source code now.  WTF people!?
+
+Look at my hand.
